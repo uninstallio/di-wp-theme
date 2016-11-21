@@ -1088,7 +1088,9 @@ object {
 .main-navigation .sub-menu {
     background: #fff;
     display: flex;
-    top: 65px;
+    top: 60px;
+    min-width: 160px;
+    text-align: center;
     flex-direction: column;
 }
 
